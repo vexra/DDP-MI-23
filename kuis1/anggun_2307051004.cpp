@@ -2,6 +2,8 @@
 using namespace std;
 
 //sigit dan anggun
+// kacau balau mendingan
+
 int main () 
 { 
   float velue1, velue2;

@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// kacau balau
+
 int main()
 {
     float a, b;

@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 // 2307051001 2307051002
+// kacau balau
 
 int main () {
     float a,b;

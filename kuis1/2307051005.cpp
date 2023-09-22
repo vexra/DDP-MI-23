@@ -2,6 +2,8 @@
 using namespace std;
 
 // 2307051005 2307051006
+// mendingan
+
 int main() {
     float a, b;
     cin >> a >> b;
