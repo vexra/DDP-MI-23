@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// bagus wendika ismail 2307051015 2307051016
+
 int main(){
     float alas, tinggi;
     cin >> alas >> tinggi;
