@@ -1,5 +1,7 @@
 #include <iostream>
 using namespace std;
+
+//sigit dan anggun
 int main () 
 { 
   float velue1, velue2;
